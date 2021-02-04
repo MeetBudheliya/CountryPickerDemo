@@ -1,0 +1,16 @@
+PODS:
+  - CountryPickerSwift (1.8.2)
+
+DEPENDENCIES:
+  - CountryPickerSwift
+
+SPEC REPOS:
+  trunk:
+    - CountryPickerSwift
+
+SPEC CHECKSUMS:
+  CountryPickerSwift: b2cd8b391a0222bd9a97d09ea30426303adac810
+
+PODFILE CHECKSUM: 85190bdde8a67bb9f77ca29fe1d655b2a9b64501
+
+COCOAPODS: 1.9.3
